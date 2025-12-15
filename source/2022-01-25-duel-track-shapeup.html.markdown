@@ -7,7 +7,7 @@ tags:
 ---
 
 
-Lately, I have talked to a lot of people about the shaping process of [Shape Up](https://basecamp.com/Shape Up). A common misunderstanding most have is that writing pitches are something you do in the last days leading up to the [betting table](https://basecamp.com/Shape Up/2.2-chapter-08), nothing could be more wrong. 
+Lately, I have talked to a lot of people about the shaping process of [Shape Up](https://basecamp.com/shapeup). A common misunderstanding most have is that writing pitches are something you do in the last days leading up to the [betting table](https://basecamp.com/shapeup/2.2-chapter-08), nothing could be more wrong. 
 
 Writing pitches is the most important part of Shape Up. It's the core of product management, it's in that process that you evaluate ideas, kill darlings and frame solutions. As product managers and designers you need to be shaping all the time, your core job is to shape! The concept of [dual-track agile coined by Marty Cagan](https://svpg.com/dual-track-agile/) applies directly to teams running Shape Up. Marty Writes:
 
